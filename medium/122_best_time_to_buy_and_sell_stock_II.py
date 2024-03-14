@@ -11,7 +11,6 @@ def max_profit(prices):
 
   return max_profit
 
-
 def main():
   print(max_profit(nums))
 
